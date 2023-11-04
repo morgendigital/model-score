@@ -6,4 +6,4 @@ An open-source rating system designed to evaluate LLMs (large language models) b
 
 ## Credits
 
-The Model Score rating system is proposed by (Localmind)[https://www.localmind.ai] and open to contributions.
+The Model Score rating system is proposed by [Localmind](https://www.localmind.ai) and open to contributions.
