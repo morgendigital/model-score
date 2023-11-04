@@ -8,6 +8,7 @@ The **Model Score** is a proposal to an open-source rating system that evaluates
 Contributions for improving the Model Score are welcome! Commit your ideas to the [Model Score repository on Github](https://github.com/morgendigital/model-score).
 
 # Evaluation Criteria
+Here, we are currently collecting ideas on what to track. Each evaluation point needs to be examined further in more detail.
 
 ## Scoring Model
 
