@@ -1,5 +1,6 @@
 # ⭐ Model Score
-*Work in progress!*
+
+*This repo is work in progress!*
 
 The **Model Score** is a proposal to an open-source rating system that evaluates LLMs (large language models) based on a variety of criteria. It aims to provide accurate quantitative measures to compare different language models and assessing their capabilities. It also aims to help with legal compliance of an AI model, based on regulatory frameworks like the EU AI Act.
 
